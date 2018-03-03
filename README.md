@@ -1,2 +1,2 @@
-# hello-world
-This is were it begibs.
+I just a guy trying to learn somthing new.
+I decided to try software testing.
